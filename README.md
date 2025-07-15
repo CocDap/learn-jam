@@ -331,7 +331,9 @@ Virtual machine is used in two important parts of the Polkadot system: PVF and S
     - [PolkaVM Deep Dive Series](https://www.youtube.com/watch?v=EFTMgkqZDNE&list=PLnhzaKpksqOK6H4_iG4oSMXhNNS0gvpdi) - A series of videos from Polkadot with deep dives into PolkaVM.
 - **Templates**
     - [scaffold-dot](https://github.com/chungquantin/scaffold-dot) - A template for getting started with Polkadot development.
-    - [substrate-revive-node](https://github.com/openguild-labs/substrate-revive-node) - A Substrate node template with the `pallet-revive` for PolkaVM.
+    - [substrate-revive-node](https://github.com/openguild-labs/substrate-revive-node) - A Substrate node template with the `pallet-revive` for PolkaVM.  
+    - [PolkaVM examples](https://github.com/JamBrains/polkavm-examples) - Run different languages in PolkaVM
+    - [Rust Contract for PolkaVM](https://github.com/paritytech/rust-contract-template) - minimal template for a Rust contract targeting pallet_revive
 
 ---
 
@@ -352,7 +354,7 @@ Virtual machine is used in two important parts of the Polkadot system: PVF and S
     - [Polkadot Remix IDE](https://remix.polkadot.io/) - A version of the Remix IDE tailored for Polkadot development, including PolkaVM support.
 - **Utility**
     - [Paseo Asset Hub ChainList](https://chainlist.org/chain/420420422) - Paseo Asset Hub RPC Configuration 
-    
+    - [Faucet](https://faucet.polkadot.io/?parachain=1111) - Faucet testing tokens on Paseo Asset Hub
 
 ---
 
